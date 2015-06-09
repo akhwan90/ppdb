@@ -1,0 +1,62 @@
+html, body {
+margin: 0;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: 11px;
+}
+
+.kop {
+margin: 0;
+text-align: center;
+}
+
+.kop img {
+display: block;
+float: left;
+position: relative;
+margin: 0 0 0 50px;
+}
+
+
+
+hr {
+width: 90%;
+border: solid 3px;
+}
+
+.cetak {
+width: 100%;
+margin: 0 auto auto;
+line-height: 45%;
+border-radius:5px;
+border-collapse: collapse;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: 11px;
+}
+.data {
+width: 80%;
+margin: 0 auto auto;
+border-radius:5px;
+border: 1px solid #B3B3B3;
+border-collapse: collapse;
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: 11px;
+}
+
+.data td{
+margin: 0;
+padding: 2px;
+border-collapse: collapse;
+}
+.data th {
+height: 34px;
+background: url(../images/table_sorter_header.png) repeat-x;
+text-align: left;
+cursor: pointer;
+padding-left: 40px;
+border-collapse: collapse;
+}
+
+
+#tengah {
+text-align: center;
+}

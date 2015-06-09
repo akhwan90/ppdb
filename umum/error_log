@@ -1,0 +1,8 @@
+[26-May-2015 15:01:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/lib/fungsi.php on line 18
+[26-May-2015 15:01:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/umum/home.php on line 7
+[26-May-2015 15:01:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/lib/fungsi.php on line 18
+[26-May-2015 15:01:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/umum/home.php on line 7
+[26-May-2015 15:03:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/lib/fungsi.php on line 18
+[26-May-2015 15:03:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/umum/home.php on line 7
+[26-May-2015 15:06:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/lib/fungsi.php on line 18
+[26-May-2015 15:06:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/umum/home.php on line 7
