@@ -1,4 +1,0 @@
-[26-May-2015 14:59:28 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/mtsnsid2/public_html/ppdb/lib/fungsi.php on line 13
-[26-May-2015 15:02:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/loginAksi.php on line 8
-[26-May-2015 15:03:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/loginAksi.php on line 8
-[26-May-2015 15:03:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/mtsnsid2/public_html/ppdb/loginAksi.php on line 8
